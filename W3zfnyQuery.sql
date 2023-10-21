@@ -1,5 +1,8 @@
 CREATE DATABASE W3zfny;
 
+USE W3zfny;
+
+GO
 CREATE TABLE users (
     user_id INT PRIMARY KEY,
     first_name VARCHAR(50),
