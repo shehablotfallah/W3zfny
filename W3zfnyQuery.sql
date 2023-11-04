@@ -1,5 +1,6 @@
 CREATE DATABASE W3zfny;
-
+GO
+    
 USE W3zfny;
 
 GO
